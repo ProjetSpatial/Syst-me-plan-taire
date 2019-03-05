@@ -1,0 +1,11 @@
+- agents:
+Planetesimaux, Etoile, Planete
+Properties(micro): Position (cercle autour de etoile), 
+Densité (du soleil), 
+Masse (Rayon/taille), 
+Vitesse
+
+- temporal dimension: Million d'années
+
+- observable propreties(macro):
+Collision et creation de planete
