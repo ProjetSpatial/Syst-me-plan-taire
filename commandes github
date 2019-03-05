@@ -1,0 +1,15 @@
+git clone (lien) -> permet de récupérer les fichiers en local depuis le dépot.
+ls -> Permet de voir les fichiers
+cd systeme-planetaire (ou autre nom de fichier) -> permet d'entrer dans dans un dossier
+ls -> Permet de voir les fichiers dans le dossier précédemment pénétré
+pwd -> Permet de localiser le dossier où l'on est
+git status -> Permet de suivre les modifications au sein d'un dossier
+git diff -> Permet de voir les modifications au sein d'un fichier du dossier
+git add -> Permet de confirmer les modifications apportées dans le fichier modifié
+git commit -m "message" -> Permet d'envoyer le fichier dans le dépot
+git config --global user.email "you@example.com" -> identification
+git config --global user.name "Your Name" -> identification
+git log -> identification 
+git commit origin master -> Permet d'enregistrer le fichier dans le dépot.
+
+L'ordre est le suivabt : clone -> add -> commit -m "nom" -> commit origin master
