@@ -28,6 +28,8 @@ Collision et creation de planete
 
 https://raw.githubusercontent.com/ProjetSpatial/Systeme-planetaire/master/modelisation.png
 
+https://raw.githubusercontent.com/ProjetSpatial/Systeme-planetaire/master/ideedebase.png
+
 Commandes github
 
 git clone (lien) -> permet de récupérer les fichiers en local depuis le dépot.
@@ -57,3 +59,4 @@ git log -> identification
 git commit origin master -> Permet d'enregistrer le fichier dans le dépot.
 
 L'ordre est le suivabt : clone -> add -> commit -m "nom" -> commit origin master
+
