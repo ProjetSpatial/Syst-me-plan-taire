@@ -31,7 +31,8 @@ https://raw.githubusercontent.com/ProjetSpatial/Systeme-planetaire/master/ideede
 
 On considère que des planétesimaux sont des planètes une fois qu'il n'y a plus d'attraction entre eux.
 
+
 Idées initiales
 
-https://ibb.co/RSMH8Q0
-https://ibb.co/0r62DTv
+<img />https://i.ibb.co/x6BLCWd/modelisation.png<img />
+
