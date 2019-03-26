@@ -1,8 +1,7 @@
 # Formation d'un système planétaire
 
 ## Introduction
-Dans le cadre de l'ARE DYNAMIC, nous sommes conduits à mener un projet de modélisation sur un sujet que nous avons choisi. Le nôtre se porte sur la formation d'un système planétaire en débutant la modélisation une fois les platénétisimaux créés.
-Notre système est originellement constitué d'une unique étoile dont le rayon et la densité sont des paramètres. Comme paramètre on retrouve également la quantité de planétesimaux.
+Dans le cadre de l'ARE DYNAMIC, nous sommes conduits à mener un projet de modélisation sur un sujet que nous avons choisi. Le nôtre se porte sur la formation d'un système planétaire constitué d'une seule étoile en débutant la modélisation une fois les platénétisimaux créés.
 
 ## Formation des planètes
 
@@ -16,11 +15,20 @@ La formation de planète à partir des planétésimaux dure environ 100 000 ans 
 
 3.	une fois le vide fait autour de lui, sa croissance s'arrête faute de matériau : on a alors affaire à un cœur planétaire.
 
+## Aspects techniques
+
+Notre modélisation va se baser sur 4 paramètres:
+-Le rayon de l'étoile
+-La densité de l'étoile
+-Le nombre de planétessimaux (ou quantité de matière dont l'on dispose pour la formation des planètes)
+-Un curseur temps. Cela nous permetra d'itérer nos algirithmes sur plusieurs dizaines de millions d'années. 
+
+Le rayon et la densité nous permettront d'obtenir la masse de l'étoile ce qui influera sur la vitesse des planétessimaux ainsi que leur distance à l'étoile.
+Ainsi on pourra observer de nombreux cas comme la formation d'une unique planète géante ou de nombreuses petites planètes ou encore un début de formation de système planétère sans pour autant le voir aboutir en fonction du temps sélectionné.
+
 Schema de l'idée initiale: interface
 <a href="http://zupimages.net/viewer.php?id=19/13/jrzz.png"><img src="https://zupimages.net/up/19/13/jrzz.png" alt="" /></a>
 
-
-## Aspects techniques
 
 - agents:
 Planetesimaux, Etoile, Planete
@@ -29,10 +37,10 @@ Densité (du soleil),
 Masse (Rayon/taille), 
 Vitesse
 
-- temporal dimension: Million d'années
+- dimension temporelle : Million d'années
 
-- observable propreties(macro):
-Collision et creation de planete
+- propriétés observables (macro):
+Collision et creation de planètes.
 
 
 modélisation de la taille du disque post-accrétion
