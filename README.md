@@ -18,9 +18,13 @@ La formation de planète à partir des planétésimaux dure environ 100 000 ans 
 ## Aspects techniques
 
 Notre modélisation va se baser sur 4 paramètres:
+
 -Le rayon de l'étoile
+
 -La densité de l'étoile
+
 -Le nombre de planétessimaux (ou quantité de matière dont l'on dispose pour la formation des planètes)
+
 -Un curseur temps. Cela nous permetra d'itérer nos algirithmes sur plusieurs dizaines de millions d'années. 
 
 Le rayon et la densité nous permettront d'obtenir la masse de l'étoile ce qui influera sur la vitesse des planétessimaux ainsi que leur distance à l'étoile.
