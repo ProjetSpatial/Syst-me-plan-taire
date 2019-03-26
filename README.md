@@ -25,7 +25,7 @@ Notre modélisation va se baser sur 4 paramètres:
 
 -Le nombre de planétessimaux (ou quantité de matière dont l'on dispose pour la formation des planètes)
 
--Un curseur temps. Cela nous permetra d'itérer nos algirithmes sur plusieurs dizaines de millions d'années. 
+-Un curseur temps. Cela nous permetra d'itérer nos algorithmes sur plusieurs dizaines de millions d'années. 
 
 Le rayon et la densité nous permettront d'obtenir la masse de l'étoile ce qui influera sur la vitesse des planétessimaux ainsi que leur distance à l'étoile.
 Ainsi on pourra observer de nombreux cas comme la formation d'une unique planète géante ou de nombreuses petites planètes ou encore un début de formation de système planétère sans pour autant le voir aboutir en fonction du temps sélectionné.
@@ -49,3 +49,5 @@ Collision et creation de planètes.
 
 modélisation de la taille du disque post-accrétion
 <a href="http://zupimages.net/viewer.php?id=19/13/rb7j.png"><img src="https://zupimages.net/up/19/13/rb7j.png" alt="" /></a>
+
+## Formulaire
