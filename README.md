@@ -33,6 +33,6 @@ On considère que des planétesimaux sont des planètes une fois qu'il n'y a plu
 
 Idées initiales
 
-[img]https://imgur.com/hM1X1kQ[/img]
+<img>https://imgur.com/hM1X1kQ<img>
 
-[img]https://imgur.com/hM1X1kQ[/img]
+<img>https://imgur.com/hM1X1kQ<img>
