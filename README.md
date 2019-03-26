@@ -25,14 +25,10 @@ Vitesse
 - observable propreties(macro):
 Collision et creation de planete
 
-https://raw.githubusercontent.com/ProjetSpatial/Systeme-planetaire/master/modelisation.png
-
-https://raw.githubusercontent.com/ProjetSpatial/Systeme-planetaire/master/ideedebase.png
-
 On considère que des planétesimaux sont des planètes une fois qu'il n'y a plus d'attraction entre eux.
 
 
-Idées initiales
+Schemas idées initiales
 
-<img />https://i.ibb.co/x6BLCWd/modelisation.png<img />
+<a href="http://zupimages.net/viewer.php?id=19/13/jrzz.png"><img src="https://zupimages.net/up/19/13/jrzz.png" alt="" /></a>
 <a href="http://zupimages.net/viewer.php?id=19/13/rb7j.png"><img src="https://zupimages.net/up/19/13/rb7j.png" alt="" /></a>
