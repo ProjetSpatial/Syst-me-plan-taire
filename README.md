@@ -53,3 +53,8 @@ modélisation de la taille du disque post-accrétion
 <a href="http://zupimages.net/viewer.php?id=19/13/rb7j.png"><img src="https://zupimages.net/up/19/13/rb7j.png" alt="" /></a>
 
 ## Formulaire
+
+
+# Modélisation
+
+Notre but est, non seulement, de faire marcher les programmes sur les diverses probabilités, mais aussi de réussir à mettre en mouvement notre système solaire et faire donc appliquer nos formules à un mouvement réel grâce à l'application Pygame. Le but est que l'on puisse voir la formation des planètes par les collisions des planétésimaux en temps accéléré. 
