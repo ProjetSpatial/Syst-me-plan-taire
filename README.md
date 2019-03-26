@@ -30,5 +30,8 @@ On considère que des planétesimaux sont des planètes une fois qu'il n'y a plu
 
 Schemas idées initiales
 
+Interface
 <a href="http://zupimages.net/viewer.php?id=19/13/jrzz.png"><img src="https://zupimages.net/up/19/13/jrzz.png" alt="" /></a>
+
+modélisation du disque d'accrétion
 <a href="http://zupimages.net/viewer.php?id=19/13/rb7j.png"><img src="https://zupimages.net/up/19/13/rb7j.png" alt="" /></a>
