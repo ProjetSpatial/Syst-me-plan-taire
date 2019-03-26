@@ -15,6 +15,8 @@ La formation de planète à partir des planétésimaux dure environ 100 000 ans 
 
 3.	une fois le vide fait autour de lui, sa croissance s'arrête faute de matériau : on a alors affaire à un cœur planétaire.
 
+Dans un soucis de simplification, nous modélisons la collision de planétésimaux sans prendre en compe leur rayon. La collision se produit lorsque les centre de 2 planétismaux sont à une distance inférieur à une valeur R déterminée.
+
 ## Aspects techniques
 
 Notre modélisation va se baser sur 4 paramètres:
