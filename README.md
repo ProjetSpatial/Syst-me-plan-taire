@@ -35,4 +35,4 @@ On considère que des planétesimaux sont des planètes une fois qu'il n'y a plu
 Idées initiales
 
 <img />https://i.ibb.co/x6BLCWd/modelisation.png<img />
-
+<a href="http://zupimages.net/viewer.php?id=19/13/rb7j.png"><img src="https://zupimages.net/up/19/13/rb7j.png" alt="" /></a>
