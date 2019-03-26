@@ -16,6 +16,9 @@ La formation de planète à partir des planétésimaux dure environ 100 000 ans 
 
 3.	une fois le vide fait autour de lui, sa croissance s'arrête faute de matériau : on a alors affaire à un cœur planétaire.
 
+Schema de l'idée initiale: interface
+<a href="http://zupimages.net/viewer.php?id=19/13/jrzz.png"><img src="https://zupimages.net/up/19/13/jrzz.png" alt="" /></a>
+
 
 # Aspects techniques
 
@@ -32,10 +35,7 @@ Vitesse
 Collision et creation de planete
 
 
-Schemas idées initiales
 
-Interface
-<a href="http://zupimages.net/viewer.php?id=19/13/jrzz.png"><img src="https://zupimages.net/up/19/13/jrzz.png" alt="" /></a>
 
-modélisation du disque d'accrétion
+modélisation de la taille du disque post-accrétion
 <a href="http://zupimages.net/viewer.php?id=19/13/rb7j.png"><img src="https://zupimages.net/up/19/13/rb7j.png" alt="" /></a>
