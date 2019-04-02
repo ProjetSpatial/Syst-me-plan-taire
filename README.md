@@ -51,6 +51,6 @@ modélisation de la taille du disque post-accrétion
 ## Formulaire
 
 
-# Modélisation
+## Modélisation
 
 Modéliser les collisions grâce à Pygame.
