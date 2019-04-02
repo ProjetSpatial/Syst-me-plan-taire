@@ -6,3 +6,15 @@ En plus de certains sites qu'il me faudra avoir sous la main :
 - Densité de planétésimal comparable à celle d'un astéroïdes : 3g/cm3 (selon https://media4.obspm.fr/public/ressources_lu/pages_planetologie-formation/exo-croissance-planetesimaux.html)
 - vitesse moyenne orbitale (selon https://fr.wikipedia.org/wiki/Vitesse_orbitale) 
 - vitesse angulaire en fonction de la vitesse (https://forums.futura-sciences.com/physique/23086-montrer-relation-v-vitesse-angulaire-rayon.html)
+-##Formation des planètes: 
+à la fin: Dans un soucis de simplification, nous modélisons la collision de planétésimaux sans prendre en compe leur rayon. 
+La collision se produit lorsque les centre de 2 planétismaux sont à une distance inférieur à une valeur R déterminée.
+-##Aspect technique:
+à la fin: Le rayon et la densité nous permettrons d'obtenir la masse de l'étoile ce qui influera sur la vitesse des
+planétessimaux ainsi que leur distance à l'étoile. Ainsi on pourra observer de nombreux cas comme la formation d'une unique 
+planète géante ou de nombreuses petites planètes ou encore un début de formation de système planétaire sans pour autant le 
+voir aboutir en fonction du temps sélectionné.
+-##Modélisation:
+Notre but est, non seulement, de faire marcher les programmes sur les diverses probabilités, mais aussi de réussir à mettre en
+mouvement notre système solaire et faire donc appliquer nos formules à un mouvement réel grâce à l'application Pygame.
+Le but est que l'on puisse voir la formation des planètes par les collisions des planétésimaux en temps accéléré. 
