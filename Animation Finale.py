@@ -1,3 +1,4 @@
+
 # -*- coding: utf-8 -*
 import random
 import math
@@ -40,7 +41,7 @@ def etoile(ray_star,densite_star):
 
 def disque_accretion(ray_star):
     ray_min=3*ray_star
-    ray_max=8.5*ray_star
+    ray_max=9*ray_star
     return (round(ray_min),round(ray_max))
 
 def one_simal_pos_init(ray_min, ray_max):
@@ -60,8 +61,8 @@ def vitesse_one_simal(taille, pos):
     _,masse_star = etoile(ray_star,densite_star)
     G = 6.67*10**(-11)
     d = (x*x + y*y)**0.5
-    v = (G*masse_star**2 / (masse_simal + masse_star)*d)**0.5 / d
-    return v/100000
+    v = (G*masse_star**2 / ((masse_simal + masse_star)*d))**0.5 / d
+    return v/1000
 
 def simal_angle(pos):
 	x, y = pos
@@ -166,4 +167,4 @@ while continuer:
                         pygame.draw.circle(fenetre, color, (x, y), taille)
 
                 pygame.display.update()
-                pygame.time.delay(100)
+		pygame.time.delay(100)
