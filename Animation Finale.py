@@ -26,6 +26,7 @@ steel = (70,130,180)
 salmon = (233,150,122)
 rod = (184,134,11)
 wheat = (245,222,179)
+copper = (101, 21, 21)
 
 def one_simal_taille():
     taille = random.randint(1,3)
@@ -85,7 +86,7 @@ def one_simal_pos_next_time(pre, v, angle_pre):
 	return (round(x),round(y))
 
 def color_simal():
-    colors = [tan, salmon,rod, wheat]
+    colors = [tan, wheat, rod, copper]
     color = random.choice(colors)
     return color
 
