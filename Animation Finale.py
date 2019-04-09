@@ -3,6 +3,7 @@ import random
 import math
 import pygame
 from pygame.locals import *
+
 print ("- Nombre de Planétésimaux:")
 print ('Entrez un nombre entre 100 et 10000:')
 n = int(input())
