@@ -5,16 +5,17 @@ import pygame
 from pygame.locals import *
 
 print ("- Nombre de Planétésimaux:")
-print ('Entrez un nombre entre 100 et 10000:')
+print ('Entrez un nombre entier entre 100 et 10000:')
 n = int(input())
 print ("- Temps:")
-print ("Entrez un nombre entre 50 et 100000:")
+print ("Entrez un nombre entier entre 50 et 100000:")
 time = int(input())
-print ("- Rayon du soleil:")
-print ("Entrer un nombre entre 10 et 80:")
+print ("- Rayon de l'étoile:")
+print ("Entrer un nombre entier entre 10 et 80:")
 ray_star = int(input())
-
-densite_star = 1.4
+print ("- Densité de l'étoile:")
+print ("Entrer un nombre entre 1 et 3:")
+densite_star = int(input())
 
 blue = (0,0,255)
 navy = (0, 0, 128)
