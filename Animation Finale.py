@@ -16,7 +16,7 @@ print ("Entrer un nombre entier entre 10 et 80:")
 ray_star = int(input())
 print ("- Densité de l'étoile:")
 print ("Entrer un nombre entre 1 et 3:")
-densite_star = int(input())
+densite_star = input()
 
 blue = (0,0,255)
 navy = (0, 0, 128)
