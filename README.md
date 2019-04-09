@@ -48,9 +48,6 @@ Collisions et créations de planètes.
 modélisation de la taille du disque post-accrétion
 <a href="http://zupimages.net/viewer.php?id=19/13/rb7j.png"><img src="https://zupimages.net/up/19/13/rb7j.png" alt="" /></a>
 
-## Formulaire
-
-
 ## Modélisation
 
 Modéliser les collisions grâce à Pygame. Notre modélisation finale est visible dans la partie "Abstract".
@@ -63,5 +60,7 @@ Our purpose in this project was to be able to model the creation of a planetary 
 
 We then began coding our star. We wanted the density, the diameter and the star's mass to be variables that we can change. Later on we also put a mass for the planetesimals that can also be changed. Once we had all the components, we started coding the collisions between the planetesimals and therefore, also their mouvement thanks to Pygame, which is a program that unables the possibility to create animations. We had several issues with that part. At first, the program would stop after one collision, then it would go on after the first collision but it wouldn't make any more. After finally solving the problems, we now have a forming planetary system. We can clearly see the collisions between the planetesimals that grow everytime. Here you can see a screenshot of our final model of a planetary system:
 <a href="http://zupimages.net/viewer.php?id=19/15/gf47.png"><img src="https://zupimages.net/up/19/15/gf47.png" alt="" /></a>
+
+## Formulaire
 
 
