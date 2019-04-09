@@ -19,7 +19,7 @@ A partir de là, notre système planétaire peut commencer à se former:
 ## Aspects techniques
 
 Notre modélisation sur 4 paramètres:
-
+for
 -Le rayon de l'étoile
 
 -La densité de l'étoile
@@ -55,6 +55,6 @@ modélisation de la taille du disque post-accrétion
 
 Modéliser les collisions grâce à Pygame.
 
-##Abstract
+## Abstract
 
-Our purpose for this project was to be able to model the creation of a planetary system by using probabilities in programing. We agreed that our planetary system would contain only one star (it would have been too hard to code a planetary system with several stars because the number of criterias would drastically increase and we would need much more time). We therefore started by coding the main components of our planetary system, the planetesimals. The planetesimals are rocks, bigger than asteroids, coliding with each other. These collisions will create planet's hearts which will later on form planets. At this point, the purpose was to have spheres placed at different positions around the star and everytime we would run the program, the sphere's positions would change. We then began coding our star. We wanted the density, the diameter and the star's mass to be variables that we can change. Later on we also put a mass for the planetesimals that can also be changed. Once we had all the components, we started coding the collisions between the planetesimals and therefore, also their mouvement thanks to Pygame, which is a program that unables the possibility to create animations. We had several issues with that part. At first, the program would stop after one collision, then it would go on after the first collision but it wouldn't make any more. After finally solving the problems, we now have a forming planetary system. We can clearaly see the collisions between the planetesimals that grow everytime. 
+Our purpose in this project was to be able to model the creation of a planetary system by using probabilities in programing. We agreed that our planetary system would contain only one star (it would have been too hard to code a planetary system with several stars because the number of criterias would drastically increase and we would need much more time). We therefore started by coding the main components of our planetary system, the planetesimals. The planetesimals are rocks, bigger than asteroids, coliding with each other. These collisions will create planet's hearts which will later on form planets. At this point, the purpose was to have spheres placed at different positions around the star and everytime we would run the program, the sphere's positions would change. We then began coding our star. We wanted the density, the diameter and the star's mass to be variables that we can change. Later on we also put a mass for the planetesimals that can also be changed. Once we had all the components, we started coding the collisions between the planetesimals and therefore, also their mouvement thanks to Pygame, which is a program that unables the possibility to create animations. We had several issues with that part. At first, the program would stop after one collision, then it would go on after the first collision but it wouldn't make any more. After finally solving the problems, we now have a forming planetary system. We can clearaly see the collisions between the planetesimals that grow everytime. 
