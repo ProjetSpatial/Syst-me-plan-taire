@@ -53,7 +53,7 @@ modélisation de la taille du disque post-accrétion
 
 ## Modélisation
 
-Modéliser les collisions grâce à Pygame.
+Modéliser les collisions grâce à Pygame. Notre modélisation finale est visible dans la partie "Abstract".
 <a href="http://zupimages.net/viewer.php?id=19/15/b618.gif"><img src="https://zupimages.net/up/19/15/b618.gif" alt="" /></a>
 
 ## Abstract
