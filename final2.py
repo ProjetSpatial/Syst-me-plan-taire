@@ -5,7 +5,7 @@ import random
 ray_star = 2
 densite_star = 3
 n = 1000
-time = 500
+time = 250
 
 def etoile(ray_star,densite_star):
     "définit la taille et la masse de l'etoile par rapport au soleil en fonction de la densité massique"
@@ -85,8 +85,10 @@ list_n = n_all_simal_init(n, ray_min, ray_max)
 
 list_nb = list()
 list_t = list()
+list_moy_taille =list()
 
 for t in range(time):
+    taille_totale = 0
     for i in range(n):
         if list_n[i]:
             x, y, new_angle, v, taille = list_n[i]
@@ -95,12 +97,14 @@ for t in range(time):
             new_angle = simal_angle((x,y))
 
             list_n[i] = (x, y, new_angle, v, taille)
+            
+            taille_totale = taille_totale + taille
 
             for e in range(n):
                 if e != i and list_n[e]:
                     x_n, y_n, _, _, taille_n= list_n[e]
 
-                    if abs(x - x_n) <= 250*(taille) and abs(y - y_n) <= 250*(taille):
+                    if abs(x - x_n) <= 150*(taille) and abs(y - y_n) <= 150*(taille):
                         taille_c = taille_n + taille
                         if taille >= taille_n:
                             x_c = x
@@ -117,8 +121,6 @@ for t in range(time):
     L = [a for a in list_n if a != None]
     list_nb.append(len(L))
     
-print (list_nb)
-print("k")
-list_t = [t for t in range(time)]
+    list_moy_taille.append(taille_totale/len(L))
 
-print(list_t)
+list_t = [t for t in range(time)]
