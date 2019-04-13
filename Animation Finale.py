@@ -36,7 +36,7 @@ def one_simal_taille():
 
 def etoile(ray_star,densite_star):
     R=ray_star*(7*10**4)
-    M=(densite_star*(math.pi)/6)*(R**3)
+    M=(int(densite_star)*(math.pi)/6)*(R**3)
     return (R,M)
 
 def disque_accretion(ray_star):
