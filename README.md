@@ -62,6 +62,4 @@ We then began coding our star. We wanted the density, the diameter and the star'
 <a href="http://zupimages.net/viewer.php?id=19/15/gf47.png"><img src="https://zupimages.net/up/19/15/gf47.png" alt="" /></a>
 <a href="http://zupimages.net/viewer.php?id=19/15/7cb7.png"><img src="https://zupimages.net/up/19/15/7cb7.png" alt="" /></a>
 
-## Formulaire
-
 
