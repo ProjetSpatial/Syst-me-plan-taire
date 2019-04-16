@@ -39,10 +39,11 @@ Densité (du soleil),
 Masse (Rayon/taille), 
 Vitesse
 
-- dimension temporelle : Millions d'années
+- dimension temporelle : Centaines de milliers d'années
 
 - propriétés observables (macro):
 Collisions et créations de planètes.
+On considère comme planète un planétesimal dont le rayon est supérieur à 1000Km.
 
 
 modélisation de la taille du disque post-accrétion
